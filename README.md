@@ -10,4 +10,4 @@
 哦，对了。最后补充下，他叫**照二娃**
 
 ### 目录
-[01.自动化测试的初醒]()
+[01.自动化测试的初醒](https://github.com/hengxuZ/An-engineer-is-boring-life/blob/master/story/01.md)
